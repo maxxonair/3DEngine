@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/x/Documents/005_Library/Light Weight Open GL for Java/lwjgl-2.9.3/slick-util.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/x/Documents/005_Library/Light Weight Open GL for Java/lwjgl-2.9.3"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/x/Documents/005_Library/Light Weight Open GL for Java/lwjgl-2.9.3/lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/x/Documents/005_Library/Light Weight Open GL for Java/lwjgl-2.9.3"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/x/Documents/005_Library/Light Weight Open GL for Java/lwjgl-2.9.3/lwjgl-glfw.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/x/Documents/005_Library/Light Weight Open GL for Java/lwjgl-2.9.3"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/x/Documents/005_Library/Light Weight Open GL for Java/lwjgl-2.9.3/lwjgl_util.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/Users/x/Documents/005_Library/Light Weight Open GL for Java/lwjgl-2.9.3"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
